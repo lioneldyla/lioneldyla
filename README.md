@@ -23,7 +23,7 @@ I design data governance frameworks and intelligent systems to support the trans
 
 ---
 
-## Doctoral Research — In Preparation
+## Doctoral Research - In Preparation
 
 **Research question:**  
 *How can data governance frameworks support the digital transformation of judicial systems in African public institutions?*
