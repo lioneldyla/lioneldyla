@@ -1,4 +1,4 @@
-# Yoboukoua DJORO — Lionel Arnaud
+# Yoboukoua Lionel Arnaud DJORO
 
 **Judicial Data & AI Governance Architect**  
 *Data Governance · Digital Justice · Responsible AI*
