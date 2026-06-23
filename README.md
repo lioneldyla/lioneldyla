@@ -7,7 +7,7 @@
 
 ## Mission
 
-I design data governance frameworks and intelligent systems to support the transformation of African judicial institutions — making courts more transparent, efficient, accountable and human-centered through the responsible use of data and AI.
+I design data governance frameworks and intelligent systems to support the transformation of African judicial institutions - making courts more transparent, efficient, accountable and human-centered through the responsible use of data and AI.
 
 > *"Building intelligent and human-centered judicial systems for Africa through data governance and responsible AI."*
 
@@ -71,19 +71,19 @@ I design data governance frameworks and intelligent systems to support the trans
 
 - **[skills-introduction-to-github](https://github.com/lioneldyla/skills-introduction-to-github)** — GitHub learning path.
 
-- **[Playground](https://github.com/lioneldyla/Playground)** — Experimental space for Python, data tools and automation scripts.
+- **[Playground](https://github.com/lioneldyla/Playground)** - Experimental space for Python, data tools and automation scripts.
 
 ---
 
 ## Professional Track
 
 - **12+ years** in Côte d'Ivoire's judicial sector: Ministry of Justice, Court of Cassation, judicial statistics, information systems and digital transformation.
-- **Deputy Director of Studies & Statistics** — Ministry of Justice.
-- **Head of IT & Statistics Services** — Cour de Cassation de Côte d'Ivoire.
-- **Project & Program Management — Data, AI and Digital Transformation Initiatives** — Justice Department.
-- **Justice Coordinator** — USAID ProJustice-CI Program.
-- **Le Wagon Data Science & AI** — Batch 2149 (2025): Python, Machine Learning, MLOps, FastAPI, Docker and GCP.
-- **CAMPC** — Information Systems Management, Project Management, Data Strategy and Governance.
+- **Deputy Director of Studies & Statistics** - Ministry of Justice.
+- **Head of IT & Statistics Services** - Cour de Cassation de Côte d'Ivoire.
+- **Project & Program Management - Data, AI and Digital Transformation Initiatives** — Justice Department.
+- **Justice Coordinator** - USAID ProJustice-CI Program.
+- **Le Wagon Data Science & AI** - Batch 2149 (2025): Python, Machine Learning, MLOps, FastAPI, Docker and GCP.
+- **CAMPC** - Information Systems Management, Project Management, Data Strategy and Governance.
 
 ---
 
@@ -114,7 +114,7 @@ Domains:     Judicial IS · Court Administration · Public Sector Reform · AI E
 
 ## Working Papers
 
-### WP01 — Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
+### WP01 - Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
 
 *Toward Human-Centered, Accountable and AI-Ready Judicial Institutions*
 
