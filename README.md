@@ -1,6 +1,6 @@
 # Yoboukoua Lionel Arnaud DJORO
 
-**Judicial Data & AI Governance Architect**  
+**Judicial Data & AI Governance Architect**
 *Data Governance · Digital Justice · Responsible AI*
 
 ---
@@ -17,18 +17,41 @@ I design data governance frameworks and intelligent systems to transform African
 
 | Pillar | Focus |
 |---|---|
-| **Data Governance** | Frameworks, data quality, lineage, cataloging in justice systems |
-| **Digital Justice** | JIS deployment, court digitalization, e-justice platforms |
-| **Responsible AI** | Ethical AI adoption, bias mitigation, AI policy for public institutions |
+| **Data Governance** | Data quality, metadata, lineage, standards, accountability and institutional intelligence |
+| **Digital Justice** | Judicial information systems, court digitalization and interoperability |
+| **Responsible AI** | Human oversight, explainability, ethical AI and AI governance |
 
 ---
 
 ## Doctoral Research (In Preparation)
 
-**Research question:**  
+**Research question:**
 *How can data governance frameworks support the digital transformation of judicial systems in African public institutions?*
 
 **Focus areas:** Data governance · Judicial IS · Public sector reform · AI ethics · African institutional contexts
+
+---
+
+## Current Focus
+
+- Data Governance and Digital Transformation of Judicial Systems in Africa
+- Responsible AI for Public Institutions
+- Institutional Intelligence and Knowledge Management
+- AI Readiness of African Courts
+
+---
+
+## Research Interests
+
+- Judicial Data Governance
+- Digital Justice
+- AI Governance
+- Responsible AI
+- Institutional Intelligence
+- Knowledge Management
+- Judicial Information Systems
+- Public Sector Reform
+- Human-Centered Justice Systems
 
 ---
 
@@ -52,7 +75,7 @@ I design data governance frameworks and intelligent systems to transform African
 - **12+ years** in Cote d'Ivoire's judicial sector (Ministry of Justice, Court of Cassation)
 - **Deputy Director of Studies & Statistics** — Ministry of Justice
 - **Head of IT & Statistics Services** — Cour de Cassation de Cote d'Ivoire
-- **Project Manager — Data, AI & Digital Transformation** — Justice Department (2023–present)
+- **Project & Program Management — Data, AI and Digital Transformation Initiatives** — Justice Department (2023–present)
 - **Justice Coordinator** — USAID ProJustice-CI Program
 - **Le Wagon Data Science & AI** — Batch 2149 (2025) · Python, ML, MLOps, FastAPI, Docker, GCP
 - **CAMPC** — Project Management, Data Strategy & Governance
@@ -70,12 +93,33 @@ Domains:     Judicial IS · Court Administration · Public Sector Reform · AI E
 
 ---
 
+## Frameworks & Methodologies
+
+- DAMA-DMBOK
+- PMBOK
+- COBIT
+- TOGAF
+- ISO 8000
+- ISO 27001
+- Knowledge Management
+- Change Management
+- Responsible AI
+
+---
+
+## Working Papers
+
+### WP01 — Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
+*Toward Human-Centered, Accountable and AI-Ready Judicial Institutions*
+
+Working Paper | Judicial Data Governance & AI | June 2026
+
+---
+
 ## Publications
 
-- **[Data Governance in African Justice Systems](https://www.linkedin.com/in/lioneldyla/)** — Working Paper (2025)  
-  *Toward Intelligent, Human-Centered and Accountable Judicial Institutions*
-- **Judicial and Penitentiary Statistics Yearbook** — DIRECTORATE OF PLANNING, 2023
-- **Judicial Statistics Yearbook** — Ministry of Justice, Cote d'Ivoire, 2019
+- **Judicial and Penitentiary Statistics Yearbook** — Ministry of Justice, Côte d'Ivoire, 2023
+- **Judicial Statistics Yearbook** — Ministry of Justice, Côte d'Ivoire, 2019
 
 ---
 
