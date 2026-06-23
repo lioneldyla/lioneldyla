@@ -1,127 +1,112 @@
 # Yoboukoua Lionel Arnaud DJORO
 
-**Judicial Data & AI Governance Architect**  
-*Data Governance · Digital Justice · Responsible AI*
+<div align="center">
+
+# Judicial Data & AI Governance Architect
+
+### Data Governance · Digital Justice · Responsible AI
+
+*Building intelligent, accountable and human-centered justice systems for Africa through data governance and responsible AI.*
+
+[LinkedIn](https://www.linkedin.com/in/lioneldyla/) •
+Abidjan, Côte d'Ivoire •
+[dystonny@gmail.com](mailto:dystonny@gmail.com)
+
+</div>
 
 ---
 
-## Mission
+## Highlights
 
-I design data governance frameworks and intelligent systems to support the transformation of African judicial institutions - making courts more transparent, efficient, accountable and human-centered through the responsible use of data and AI.
-
-> *"Building intelligent and human-centered judicial systems for Africa through data governance and responsible AI."*
-
----
-
-## Three Pillars
-
-| Pillar | Focus |
-|---|---|
-| **Data Governance** | Data quality, metadata, lineage, standards, accountability and institutional intelligence |
-| **Digital Justice** | Judicial information systems, court digitalization, registry modernization and interoperability |
-| **Responsible AI** | Human oversight, explainability, ethical AI and AI governance for public institutions |
+- **12+ years** in Côte d'Ivoire's justice sector: Ministry of Justice, Court of Cassation, judicial statistics, information systems and digital transformation.
+- **Author of the Judicial Data Governance Framework (JDGF)** for African judicial institutions.
+- **Contributor to official national judicial and penitentiary statistics yearbooks** hosted by the Ministry of Justice.
+- **Preparing PhD-level research** on data governance, AI readiness and intelligent justice systems in Africa.
+- **Le Wagon Data Science & AI graduate** with applied experience in Python, Machine Learning, FastAPI, Streamlit, Docker and GCP.
 
 ---
 
-## Doctoral Research - In Preparation
+## About
 
-**Research question:**  
-*How can data governance frameworks support the digital transformation of judicial systems in African public institutions?*
+I am a judicial administrator, project manager and data governance practitioner with more than twelve years of experience in Côte d'Ivoire's justice sector.
 
-**Focus areas:** Data governance · Judicial information systems · Public sector reform · AI ethics · African institutional contexts · Institutional intelligence
+My work lies at the intersection of judicial administration, data governance, digital transformation and responsible artificial intelligence. I focus on how African public institutions can build intelligent, accountable and human-centered justice systems through better governance of data, knowledge and digital capabilities.
+
+> *Technology alone does not transform institutions. Governed data, institutional learning and responsible innovation do.*
 
 ---
 
-## Current Focus
+## Current Positions
 
-- Data Governance and Digital Transformation of Judicial Systems in Africa
-- Responsible AI for Public Institutions
+- **Deputy Director of Studies & Statistics** — Ministry of Justice, Côte d'Ivoire
+- **Head of IT & Statistics Services** — Court of Cassation of Côte d'Ivoire
+- **Project & Program Management** — Data, AI and Digital Transformation Initiatives
+- **Justice Coordinator** — USAID ProJustice-CI Program
+
+---
+
+## Research Agenda
+
+**Main Theme**  
+**Data Governance and Digital Transformation of Judicial Systems in Africa**
+
+**Research Question**  
+*How can data governance frameworks support the digital transformation and AI readiness of judicial systems in African public institutions?*
+
+**Focus Areas**
+- Judicial Data Governance
+- Digital Justice and Judicial Information Systems
+- Responsible AI and AI Governance
 - Institutional Intelligence and Knowledge Management
 - AI Readiness of African Courts
+- Public Sector Reform and Evidence-Based Justice Policy
 
 ---
 
-## Research Interests
+## Three Strategic Pillars
 
-- Judicial Data Governance
-- Digital Justice
-- AI Governance
-- Responsible AI
-- Institutional Intelligence
-- Knowledge Management
-- Judicial Information Systems
-- Public Sector Reform
-- Human-Centered Justice Systems
+| Pillar | Focus |
+|---------|-------|
+| **Data Governance** | Data quality, metadata, standards, lineage, accountability and institutional intelligence |
+| **Digital Justice** | Judicial information systems, interoperability, registry modernization and e-justice |
+| **Responsible AI** | Human oversight, explainability, ethical AI and AI governance |
 
 ---
 
-## Key Projects
+## Core Assets
 
-### Justice & Data Governance
+### Judicial Data Governance Framework (JDGF)
 
-- **[jdgf-framework](https://github.com/lioneldyla/jdgf-framework)** - Judicial Data Governance Framework: tools, documentation and methodology for governing data in African court systems.
+🔗 [jdgf-framework](https://github.com/lioneldyla/jdgf-framework)
 
-- **[judicial-statistics](https://github.com/lioneldyla/judicial-statistics)** - Data methodology, indicators and analytical documentation related to national judicial statistics yearbooks.
+A reusable institutional-grade framework for governing judicial data in African justice systems, covering data quality, metadata, accountability, maturity assessment and AI readiness.
 
-### AI & Machine Learning
+### Judicial Statistics
 
-- **[monitor-the-reactor](https://github.com/lioneldyla/monitor-the-reactor)** - Capstone project, Le Wagon Data Science & AI 2025: industrial anomaly detection ML pipeline with FastAPI, Streamlit, Docker and GCP.
+🔗 [judicial-statistics](https://github.com/lioneldyla/judicial-statistics)
 
-### Learning & Foundations
+Documentation, indicators and methodologies supporting national judicial statistics production and evidence-based justice policies.
 
-- **[skills-introduction-to-github](https://github.com/lioneldyla/skills-introduction-to-github)** - GitHub learning path.
+### Monitor the Reactor
 
-- **[Playground](https://github.com/lioneldyla/Playground)** - Experimental space for Python, data tools and automation scripts.
+🔗 [monitor-the-reactor](https://github.com/lioneldyla/monitor-the-reactor)
 
----
-
-## Professional Track
-
-- **12+ years** in Côte d'Ivoire's judicial sector: Ministry of Justice, Court of Cassation, judicial statistics, information systems and digital transformation.
-- **Deputy Director of Studies & Statistics** - Ministry of Justice.
-- **Head of IT & Statistics Services** - Cour de Cassation de Côte d'Ivoire.
-- **Project & Program Management - Data, AI and Digital Transformation Initiatives** — Justice Department.
-- **Justice Coordinator** - USAID ProJustice-CI Program.
-- **Le Wagon Data Science & AI** - Batch 2149 (2025): Python, Machine Learning, MLOps, FastAPI, Docker and GCP.
-- **CAMPC** - Information Systems Management, Project Management, Data Strategy and Governance.
+Industrial anomaly detection machine learning pipeline developed during Le Wagon Data Science & AI (Batch 2149, 2025).
 
 ---
 
-## Tech Stack
+## Working Paper Series
 
-```text
-Languages:   Python · SQL · Markdown · Shell
-Tools:       Power BI · GCP · FastAPI · Docker · Streamlit · Git
-Methodology: Agile/Scrum · Data Governance · DAMA-DMBOK · PMBOK · COBIT · Change Management
-Domains:     Judicial IS · Court Administration · Public Sector Reform · AI Ethics · Institutional Intelligence
-```
+### WP01 — Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
 
----
-
-## Frameworks & Methodologies
-
-- DAMA-DMBOK
-- PMBOK
-- COBIT
-- TOGAF
-- ISO 8000
-- ISO 27001
-- Knowledge Management
-- Change Management
-- Responsible AI
-
----
-
-## Working Papers
-
-### WP01 - Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa
-
-*Toward Human-Centered, Accountable and AI-Ready Judicial Institutions*
-
+*Toward Human-Centered, Accountable and AI-Ready Judicial Institutions*  
 **Working Paper | Judicial Data Governance & AI | June 2026**
 
-📄 LinkedIn Article:  
-https://www.linkedin.com/pulse/data-governance-african-justice-systems-toward-judicial-djoro-o2mee/
+📄 [LinkedIn Article](https://www.linkedin.com/pulse/data-governance-african-justice-systems-toward-judicial-djoro-o2mee/)
+
+Conceptual foundation for future PhD research on judicial data governance, AI readiness and intelligent justice systems in African public institutions.
+
+**Upcoming topics:** Responsible AI for judicial institutions · Knowledge management in courts · Institutional memory · Strategic steering through data · Court registry operations in digital justice
 
 ---
 
@@ -129,26 +114,51 @@ https://www.linkedin.com/pulse/data-governance-african-justice-systems-toward-ju
 
 ### Official Repository of Judicial Statistics
 
-🔗 https://www.justice.ci/judiciaires/
+🔗 [justice.ci/judiciaires](https://www.justice.ci/judiciaires/)
 
 ### Statistical Yearbooks
 
-- 📘 **Judicial and Penitentiary Statistics Yearbook 2021–2022**  
-  https://www.justice.ci/wp-content/uploads/2023/01/Annuaire-2021-2022.pdf
+- [Judicial and Penitentiary Statistics Yearbook 2021–2022](https://www.justice.ci/wp-content/uploads/2023/01/Annuaire-2021-2022.pdf)
+- [Judicial and Penitentiary Statistics Yearbook 2019–2020](https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE_20_-juillet-2020.pdf)
+- [Judicial and Penitentiary Statistics Yearbook 2017–2018](https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE-STAT-JUDICIAIRES-ET-PENITENTIARES-2017-2018.pdf)
 
-- 📘 **Judicial and Penitentiary Statistics Yearbook 2019–2020**  
-  https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE_20_-juillet-2020.pdf
+---
 
-- 📘 **Judicial and Penitentiary Statistics Yearbook 2017–2018**  
-  https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE-STAT-JUDICIAIRES-ET-PENITENTIARES-2017-2018.pdf
+## Professional Track
+
+- **12+ years** in Côte d'Ivoire's judicial sector
+- **Deputy Director of Studies & Statistics** — Ministry of Justice
+- **Head of IT & Statistics Services** — Court of Cassation of Côte d'Ivoire
+- **Justice Coordinator** — USAID ProJustice-CI Program
+- **Le Wagon Data Science & AI** — Batch 2149 (2025)
+- **CAMPC** — Information Systems Management, Project Management, Data Strategy and Governance
+
+---
+
+## Tech & Methods
+
+- **Languages:** Python · SQL · Markdown · Shell
+- **Tools:** Power BI · GCP · FastAPI · Docker · Streamlit · Git
+- **Frameworks:** DAMA-DMBOK · PMBOK · COBIT · TOGAF
+- **Standards & Methods:** ISO 8000 · ISO 27001 · Knowledge Management · Change Management · Responsible AI · Human-Centered Design
+
+---
+
+## Open To
+
+- PhD supervision or co-supervision on judicial data governance and AI in African contexts
+- Research collaborations on AI-ready and human-centered justice systems
+- Partnerships on data governance frameworks for justice institutions
+- Applied research and pilots on AI readiness of courts and digital justice systems
+- International cooperation in digital justice, rule of law and evidence-based reform
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/lioneldyla/
-- Email: dystonny@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yoboukoua_DJORO-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lioneldyla/)
+[![Email](https://img.shields.io/badge/Email-dystonny@gmail.com-D14836?style=flat&logo=gmail)](mailto:dystonny@gmail.com)
 
 ---
 
-*Open to collaboration on judicial data governance, responsible AI for public institutions, digital justice, public sector reform and doctoral research on African justice systems.*
+> *"Technology alone does not transform institutions. Governed data, institutional learning and responsible innovation do."*
