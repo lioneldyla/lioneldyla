@@ -38,10 +38,10 @@ My work lies at the intersection of judicial administration, data governance, di
 
 ## Current Positions
 
-- **Deputy Director of Studies & Statistics** — Ministry of Justice, Côte d'Ivoire
-- **Head of IT & Statistics Services** — Court of Cassation of Côte d'Ivoire
-- **Project & Program Management** — Data, AI and Digital Transformation Initiatives
-- **Justice Coordinator** — USAID ProJustice-CI Program
+- **Deputy Director of Studies & Statistics** - Ministry of Justice, Côte d'Ivoire
+- **Head of IT & Statistics Services** - Court of Cassation of Côte d'Ivoire
+- **Project & Program Management** - Data, AI and Digital Transformation Initiatives
+- **Justice Coordinator** - USAID ProJustice-CI Program
 
 ---
 
