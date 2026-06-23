@@ -59,17 +59,17 @@ I design data governance frameworks and intelligent systems to support the trans
 
 ### Justice & Data Governance
 
-- **[jdgf-framework](https://github.com/lioneldyla/jdgf-framework)** — Judicial Data Governance Framework: tools, documentation and methodology for governing data in African court systems.
+- **[jdgf-framework](https://github.com/lioneldyla/jdgf-framework)** - Judicial Data Governance Framework: tools, documentation and methodology for governing data in African court systems.
 
-- **[judicial-statistics](https://github.com/lioneldyla/judicial-statistics)** — Data methodology, indicators and analytical documentation related to national judicial statistics yearbooks.
+- **[judicial-statistics](https://github.com/lioneldyla/judicial-statistics)** - Data methodology, indicators and analytical documentation related to national judicial statistics yearbooks.
 
 ### AI & Machine Learning
 
-- **[monitor-the-reactor](https://github.com/lioneldyla/monitor-the-reactor)** — Capstone project, Le Wagon Data Science & AI 2025: industrial anomaly detection ML pipeline with FastAPI, Streamlit, Docker and GCP.
+- **[monitor-the-reactor](https://github.com/lioneldyla/monitor-the-reactor)** - Capstone project, Le Wagon Data Science & AI 2025: industrial anomaly detection ML pipeline with FastAPI, Streamlit, Docker and GCP.
 
 ### Learning & Foundations
 
-- **[skills-introduction-to-github](https://github.com/lioneldyla/skills-introduction-to-github)** — GitHub learning path.
+- **[skills-introduction-to-github](https://github.com/lioneldyla/skills-introduction-to-github)** - GitHub learning path.
 
 - **[Playground](https://github.com/lioneldyla/Playground)** - Experimental space for Python, data tools and automation scripts.
 
