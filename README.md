@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Judicial Data & AI Governance Architect
+# Data & AI Governance Architect | Building governed, AI-ready & human-centered public systems in Africa | PhD-track researcher
 
 ### Data Governance · Digital Justice · Responsible AI
 
