@@ -16,13 +16,13 @@ Judicial administrator, project manager and Data & AI Governance practitioner wi
 
 Administrateur des services judiciaires, chef de projet et praticien de la gouvernance des données et de l’IA, avec plus de douze années d’expérience dans le secteur de la justice en Côte d’Ivoire. Mes travaux relient transformation publique, data engineering, intelligence documentaire, recherche d’information, IA locale et évaluation scientifique.
 
-Current positions:
-
-- Deputy Director of Studies and Statistics, Ministry of Justice, Côte d’Ivoire
-- Head of IT and Statistics Services, Court of Cassation of Côte d’Ivoire
-- Justice Coordinator, USAID ProJustice-CI Program
-- Project and Program Manager for data, AI and digital-transformation initiatives
-- PhD-track researcher in Judicial Data Governance, Digital Justice and Responsible AI
+Professional Background:
+- Trainee Senior Court Registry Administrator, National Institute for Judicial Training (current)
+- Project Manager - Data, AI and Digital Transformation, Ministry of Justice, Cote d'Ivoire (current)
+- Former Head of IT and Statistics Services, Court of Cassation of Cote d'Ivoire
+- Former Deputy Director of Studies and Statistics, Ministry of Justice, Cote d'Ivoire
+- Former Justice Coordinator, USAID ProJustice-CI Program
+- PhD Research in Preparation – Judicial Data Governance, Digital Justice and Responsible AI
 - Le Wagon Data Science & AI graduate, Batch 2149 (2025)
 
 > Technology alone does not transform institutions. Governed data, institutional learning and responsible innovation do.
@@ -51,6 +51,8 @@ Current milestone: human annotation of the scientific Goldset before the officia
 ### [JDGF Lab Framework](https://github.com/lioneldyla/JDGF-LAB-FRAMEWORK)
 
 Modular governance and control framework for AI-assisted projects, knowledge systems and supervised workflows.
+
+JDGF (Judicial Data Governance Framework) refers both to a conceptual governance framework for AI-ready judicial institutions and to its open-source technical implementation, developed under this JDGF-LAB-FRAMEWORK repository.
 
 - versioned manifests and JSON Schema validation
 - `jdgf` command-line interface
