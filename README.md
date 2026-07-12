@@ -1,6 +1,6 @@
 # Yoboukoua Lionel Arnaud DJORO
 
-## Data & Knowledge Engineer | Judicial Data and AI Governance Architect | Python Developer
+## Data & AI Governance Architect | Building AI-ready, governed & human-centered public systems in Africa | PhD Research in Preparation
 
 Abidjan, Côte d’Ivoire · [LinkedIn](https://www.linkedin.com/in/lioneldyla/) · [Email](mailto:dystonny@gmail.com)
 
