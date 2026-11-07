@@ -1,6 +1,6 @@
 # Yoboukoua Lionel Arnaud DJORO
 
-## Data & AI Governance Architect | Building AI-ready, governed & human-centered public systems in Africa | PhD Research in Preparation
+## Data, Digital Transformation & AI | Data Governance, Analytics & Document Intelligence | Public Sector
 
 Abidjan, Côte d’Ivoire · [LinkedIn](https://www.linkedin.com/in/lioneldyla/) · [Email](mailto:dystonny@gmail.com)
 
@@ -18,7 +18,7 @@ Administrateur des services judiciaires, chef de projet et praticien de la gouve
 
 Professional Background:
 - Trainee Senior Court Registry Administrator, National Institute for Judicial Training (current)
-- Project Manager - Data, AI and Digital Transformation, Ministry of Justice, Cote d'Ivoire (current)
+- Project Manager - Data, AI and Digital Transformation, Ministry of Justice, Cote d'Ivoire (Oct 2025–Jun 2026, as listed on LinkedIn)
 - Former Head of IT and Statistics Services, Court of Cassation of Cote d'Ivoire
 - Former Deputy Director of Studies and Statistics, Ministry of Justice, Cote d'Ivoire
 - Former Justice Coordinator, USAID ProJustice-CI Program
@@ -52,7 +52,7 @@ Current milestone: human annotation of the scientific Goldset before the officia
 
 Modular governance and control framework for AI-assisted projects, knowledge systems and supervised workflows.
 
-JDGF (Judicial Data Governance Framework) refers both to a conceptual governance framework for AI-ready judicial institutions and to its open-source technical implementation, developed under this JDGF-LAB-FRAMEWORK repository.
+The [Judicial Data Governance Framework](https://github.com/lioneldyla/jdgf-framework) is a methodology in development for judicial institutions. JDGF Lab Framework is a separate open-source toolkit for governing AI-assisted projects and knowledge workflows.
 
 - versioned manifests and JSON Schema validation
 - `jdgf` command-line interface
@@ -156,6 +156,13 @@ DAMA-DMBOK · PMBOK · COBIT · TOGAF · ISO 8000 · ISO 27001 · Knowledge Mana
 ---
 
 ## Selected public assets | Réalisations publiques
+
+| Project | Status and scope |
+| --- | --- |
+| [Judicial Data Governance Framework](https://github.com/lioneldyla/jdgf-framework) | Research methodology in development |
+| [JDGF Lab Framework](https://github.com/lioneldyla/JDGF-LAB-FRAMEWORK) | Open-source toolkit in developer preview |
+| [Judicial Statistics](https://github.com/lioneldyla/judicial-statistics) | Methodology and analytical workflows documented for judicial statistics yearbooks |
+| [SISAJ](https://github.com/lioneldyla/SISAJ) | Demonstration of a procedural registry and reporting system using synthetic data only |
 
 ### [Judicial Data Governance Framework](https://github.com/lioneldyla/jdgf-framework)
 
