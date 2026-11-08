@@ -2,7 +2,7 @@
 
 ## Data, Digital Transformation & AI | Data Governance, Analytics & Document Intelligence | Public Sector
 
-Abidjan, Côte d’Ivoire · [LinkedIn](https://www.linkedin.com/in/lioneldyla/) · [Email](mailto:dystonny@gmail.com)
+Abidjan, Côte d’Ivoire · [LinkedIn](https://www.linkedin.com/in/dylaprod/) · [Email](mailto:dystonny@gmail.com)
 
 I design governed data, knowledge and decision-support systems that transform heterogeneous datasets and documents into traceable, searchable and actionable knowledge.
 
@@ -210,4 +210,4 @@ Data Engineer · Knowledge Engineer · Python Developer · Research Engineer · 
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/lioneldyla/) · [Email](mailto:dystonny@gmail.com) · Abidjan, Côte d’Ivoire
+[LinkedIn](https://www.linkedin.com/in/dylaprod/) · [Email](mailto:dystonny@gmail.com) · Abidjan, Côte d’Ivoire
