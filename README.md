@@ -1,12 +1,14 @@
 # Yoboukoua Lionel Arnaud DJORO
 
-## Data, Digital Transformation & AI | Data Governance, Analytics & Document Intelligence | Public Sector
+## Architecte de l’intelligence institutionnelle, systémique et décisionnelle publique
+
+Gouvernance et transformation publiques · Administration judiciaire · Données et systèmes de connaissances
 
 Abidjan, Côte d’Ivoire · [LinkedIn](https://www.linkedin.com/in/dylaprod/) · [Email](mailto:dystonny@gmail.com)
 
-I design governed data, knowledge and decision-support systems that transform heterogeneous datasets and documents into traceable, searchable and actionable knowledge.
+I connect institutional mandates, organisational processes, information governance and decision-support systems to strengthen public-sector coordination, learning and transformation.
 
-Je conçois des plateformes de données, de connaissances et d’aide à la décision qui transforment des sources hétérogènes en informations structurées, traçables, recherchables et exploitables.
+Je relie les missions institutionnelles, les processus de travail, la gouvernance de l’information et les systèmes d’aide à la décision pour renforcer la coordination, l’apprentissage et la transformation des organisations publiques. Cette approche professionnelle complète mon parcours dans l’administration judiciaire ; elle ne désigne pas un poste institutionnel distinct.
 
 ---
 
@@ -108,6 +110,10 @@ Private knowledge base and long-term documentary memory for research, projects a
 
 ---
 
+## Research portfolio | Portefeuille de recherche
+
+[Research programme, working-paper status and methodological documentation](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio). Planned outputs are distinguished from available drafts, prototypes and peer-reviewed publications. Academic identifiers are reused only after ownership verification.
+
 ## Research agenda | Programme de recherche
 
 **Main theme:** Data Governance and Digital Transformation of Judicial Systems in Africa
@@ -189,7 +195,7 @@ Research on Judicial Data Governance, Responsible AI and AI-ready public institu
 - [Judicial and Penitentiary Statistics Yearbook 2019–2020](https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE_20_-juillet-2020.pdf)
 - [Judicial and Penitentiary Statistics Yearbook 2017–2018](https://www.justice.ci/wp-content/uploads/2021/12/ANNUAIRE-STAT-JUDICIAIRES-ET-PENITENTIARES-2017-2018.pdf)
 
-Working paper: [Data Governance as Foundational Infrastructure for Intelligent Justice Systems in Africa](https://www.linkedin.com/pulse/data-governance-african-justice-systems-toward-judicial-djoro-o2mee/)
+Working paper in preparation: [WP01 — status, manuscript source and version reconciliation](https://github.com/lioneldyla/judicial-data-ai-governance-portfolio/tree/main/working_papers/WP01). The accessible manuscript is a v0.1 draft with incomplete sections; no DOI or peer-reviewed publication is established by this link.
 
 ---
 
